@@ -4,3 +4,6 @@ cd humdrum-tools
 make update
 make             
 make install
+mkdir -p haydn
+cd haydn
+humsplit h://haydn/quartets
