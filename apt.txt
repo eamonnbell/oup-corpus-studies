@@ -1,2 +1,3 @@
 gawk
 bsdmainutils
+musescore
