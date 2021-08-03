@@ -4,6 +4,6 @@ cd humdrum-tools
 make update
 make             
 make install
-mkdir -p haydn
+mkdir -p ~/haydn
 cd haydn
-humsplit h://haydn/quartets
+~/humdrum-tools/humextra/bin/humsplit h://haydn/quartets
